@@ -1,1 +1,0 @@
-module.exports = require("npm:sweetalert@2.0.8/dist/sweetalert.min.js");

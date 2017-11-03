@@ -1,2 +1,0 @@
-.table [ng-click],.table__sort{cursor:pointer}.table__sort{position:relative;padding-left:10px;width:14px;height:14px;top:3px}.table__sort::before{position:absolute;transition:transform .2s ease}.table__sort.reverse::before{transform:rotate(180deg)}
-/*# sourceMappingURL=main.css.map */

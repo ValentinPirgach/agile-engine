@@ -1,1 +1,0 @@
-module.exports = require("npm:promise-polyfill@6.0.2/promise.js");

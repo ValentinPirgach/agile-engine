@@ -1,1 +1,0 @@
-module.exports = require("github:ocombe/oclazyload@1.0.9/dist/ocLazyLoad.js");

@@ -1,1 +1,0 @@
-module.exports = require("npm:es6-object-assign@1.1.0/index.js");

@@ -1,1 +1,0 @@
-{"version":3,"sources":["common/components/nav/nav.less"],"names":[],"mappings":"AACE,gBACE,cAAA,KACA,UAAA,KACA,IAAA","sourcesContent":[".nav {\n  .glyphicon {\n    padding-right: 10px;\n    font-size: 16px;\n    top: 2px;\n  }\n}\n"],"file":"nav.css"}
