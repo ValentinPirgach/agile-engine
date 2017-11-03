@@ -4,7 +4,6 @@ bower_components
 .idea
 .DS_STORE
 coverage
-jspm_packages
 
 *.log
 *.back.*
