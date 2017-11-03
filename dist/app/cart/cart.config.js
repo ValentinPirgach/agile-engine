@@ -1,0 +1,1 @@
+System.registerDynamic("app/cart/cart.config.js",[],!0,function(a,b,c){"use strict";function d(a){a.state("cart",{url:"/cart",template:"<cart></cart>"})}return d.$inject=["$stateProvider"],Object.defineProperty(b,"__esModule",{value:!0}),b.default=d,c.exports});

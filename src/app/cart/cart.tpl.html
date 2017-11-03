@@ -1,0 +1,11 @@
+<div class="container">
+  <div class="col-lg-12">
+    <items-table
+      items="Cart.items"
+      on-add="Cart.add($item)"
+      on-remove="Cart.remove($item, $option)"
+      on-submit="Cart.submit()"
+      total-price="Cart.totalPrice"
+    ></items-table>
+  </div>
+</div>

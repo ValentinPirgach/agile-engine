@@ -1,0 +1,25 @@
+.table {
+  &__sort {
+    position: relative;
+    padding-left: 10px;
+    cursor: pointer;
+    width: 14px;
+    height: 14px;
+    top: 3px;
+
+    &::before {
+      position: absolute;
+      transition: transform 0.2s ease;
+    }
+
+    &.reverse {
+      &::before {
+        transform: rotate(180deg);
+      }
+    }
+  }
+
+  [ng-click] {
+    cursor: pointer;
+  }
+}

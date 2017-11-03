@@ -1,0 +1,20 @@
+[
+  {
+    "stateName": "main",
+    "urlPrefix": "/main",
+    "type": "load",
+    "src": "app/main/main.component"
+  },
+  {
+    "stateName": "cart",
+    "urlPrefix": "/cart",
+    "type": "load",
+    "src": "app/cart/cart.component"
+  },
+  {
+    "stateName": "history",
+    "urlPrefix": "/history",
+    "type": "load",
+    "src": "app/history/history.component"
+  }
+]
